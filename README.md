@@ -30,12 +30,16 @@ int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-1
 6.masukan perintah “else”  jika semua kondisi tidak tercapai 
 	Else adalah suatu perintah bila tidak ada suatu kondisi yang terpenuhi
 
-	seperti pada gambar 
-3.(https://user-images.githubusercontent.com/44745895/52644367-47f99800-2f11-11e9-8321-92413a812104.png) 
+	seperti pada gambar 3.
+
+			 ![sc if](https://user-images.githubusercontent.com/44745895/52658644-2d81e780-2f2e-11e9-8d37-7a42dc105b58.png)
+
 
 7.untuk menjalankan klik "run"
 
-	seperti gambar 4.(https://user-images.githubusercontent.com/44745895/52644435-62cc0c80-2f11-11e9-8bc9-6526d98d232f.png)
+	seperti gambar 4.
+
+				![sc runn](https://user-images.githubusercontent.com/44745895/52658713-4ee2d380-2f2e-11e9-86ca-663a9bfdf1a7.png)
 
 
 
