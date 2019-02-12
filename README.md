@@ -14,20 +14,25 @@ print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f
 
 3.INISIALISAI a,b,c sebagai integer dengan perintah “int” & “input” untuk memasukan nilai bilangan
 	Dengan a = bilangan pertama
+		
 		b = bilangan kedua
+		
 		c = bilangan ketiga
 	seperti pada gambar 2.![sc 
 int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-11e9-89d1-313ead0787ca.png)
 
 
-4.masukan perintah “if” (jika) a>b & a>c maka tampilkan “bilangan terbesar = a” dengan perintah “print”
+4.masukan perintah “if” (jika) a>b & a>c maka tampilkan “bilangan terbesar = a” dengan perintah “print” .
+	
 	If adalah suatu perintah bila suatu kondisi tercapai.
 	
 
-5.masukan perintah “elif” (jika) b>c & b>c  maka tampilkan “bilangan terbesar =b” dengan perintah “print”
+5.masukan perintah “elif” (jika) b>c & b>c  maka tampilkan “bilangan terbesar =b” dengan perintah “print”.
+	
 	Elif adalah suatu perintah ketika kondisi lainya tidak tercapai
 
-6.masukan perintah “else”  jika semua kondisi tidak tercapai 
+6.masukan perintah “else”  jika semua kondisi tidak tercapai. 
+	
 	Else adalah suatu perintah bila tidak ada suatu kondisi yang terpenuhi
 
 	seperti pada gambar 3.
