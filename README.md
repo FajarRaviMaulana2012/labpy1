@@ -13,11 +13,14 @@ print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f
 
 
 3.INISIALISAI a,b,c sebagai integer dengan perintah “int” & “input” untuk memasukan nilai bilangan
-	Dengan a = bilangan pertama
+	Dengan
+		
+		a = bilangan pertama
 		
 		b = bilangan kedua
 		
 		c = bilangan ketiga
+	
 	seperti pada gambar 2.![sc 
 int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-11e9-89d1-313ead0787ca.png)
 
