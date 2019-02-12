@@ -7,7 +7,9 @@ BILANGAN PERTAMA,KEDUA DAN KETIGA
 
 1.START
 2.gunakan perintah “print” untuk menampilkan kata pembuka. 
-	seperti pada gambar 1.
+	seperti pada gambar 1.![sc 
+print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f-11e9-8da6-1e9741172b89.png)
+
 
 3.INISIALISAI a,b,c sebagai integer dengan perintah “int” & “input” untuk memasukan nilai bilangan
 	Dengan a = bilangan pertama
