@@ -9,6 +9,8 @@ BILANGAN PERTAMA,KEDUA DAN KETIGA
 
 2.gunakan perintah “print” untuk menampilkan kata pembuka. 
 	seperti pada gambar 1.
+	
+	
 	![sc  print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f-11e9-8da6-1e9741172b89.png)
 
 
@@ -21,8 +23,9 @@ BILANGAN PERTAMA,KEDUA DAN KETIGA
 		
 		c = bilangan ketiga
 	
-	seperti pada gambar 2.![sc 
-int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-11e9-89d1-313ead0787ca.png)
+	seperti pada gambar 2.
+	
+	![sc  int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-11e9-89d1-313ead0787ca.png)
 
 
 4.masukan perintah “if” (jika) a>b & a>c maka tampilkan “bilangan terbesar = a” dengan perintah “print” .
