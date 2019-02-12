@@ -6,6 +6,7 @@ MENENTUKAN NILAI TERBESAR DARI 3 BILANGAN
 BILANGAN PERTAMA,KEDUA DAN KETIGA
 
 1.START
+
 2.gunakan perintah “print” untuk menampilkan kata pembuka. 
 	seperti pada gambar 1.![sc 
 print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f-11e9-8da6-1e9741172b89.png)
@@ -30,12 +31,12 @@ int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-1
 	Else adalah suatu perintah bila tidak ada suatu kondisi yang terpenuhi
 
 	seperti pada gambar 3.![sc 
-if](https://user-images.githubusercontent.com/44745895/52643702-29df6800-2f10-11e9-8140-bed3eb13f451.png)
+if](https://user-images.githubusercontent.com/44745895/52644367-47f99800-2f11-11e9-8321-92413a812104.png) 
 
 7.untuk menjalankan klik "run"
 
 	seperti gambar 4.![sc 
-run](https://user-images.githubusercontent.com/44745895/52643784-49769080-2f10-11e9-93fb-76e902b215ac.png)
+run](https://user-images.githubusercontent.com/44745895/52644435-62cc0c80-2f11-11e9-8bc9-6526d98d232f.png)
 
 
 
@@ -46,5 +47,11 @@ hasil](https://user-images.githubusercontent.com/44745895/52643874-7165f400-2f10
 
 
 
+
+
 9.selesai dan akan muncul hasilnya
 
+
+BERIKUT FLOWCHARTNYA
+
+[flowchart.pdf](https://github.com/rudal2012/labpy1/files/2856330/flowchart.pdf)
