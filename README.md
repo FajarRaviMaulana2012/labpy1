@@ -11,7 +11,7 @@ BILANGAN PERTAMA,KEDUA DAN KETIGA
 	seperti pada gambar 1.
 	
 	
-	![sc print](https://user-images.githubusercontent.com/44745895/52660502-615f0c00-2f32-11e9-964b-e42a69440e00.png)
+![sc print](https://user-images.githubusercontent.com/44745895/52660502-615f0c00-2f32-11e9-964b-e42a69440e00.png)	
 
 
 3.INISIALISAI a,b,c sebagai integer dengan perintah “int” & “input” untuk memasukan nilai bilangan
@@ -25,7 +25,7 @@ BILANGAN PERTAMA,KEDUA DAN KETIGA
 	
 	seperti pada gambar 2.
 	
-	![sc int](https://user-images.githubusercontent.com/44745895/52660454-48eef180-2f32-11e9-9bcd-bda995995aa8.png)
+![sc int](https://user-images.githubusercontent.com/44745895/52660454-48eef180-2f32-11e9-9bcd-bda995995aa8.png)
 
 
 4.masukan perintah “if” (jika) a>b & a>c maka tampilkan “bilangan terbesar = a” dengan perintah “print” .
