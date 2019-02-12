@@ -15,7 +15,9 @@ print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f
 	Dengan a = bilangan pertama
 		b = bilangan kedua
 		c = bilangan ketiga
-	seperti pada gambar 2.
+	seperti pada gambar 2.![sc 
+int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-11e9-89d1-313ead0787ca.png)
+
 
 4.masukan perintah “if” (jika) a>b & a>c maka tampilkan “bilangan terbesar = a” dengan perintah “print”
 	If adalah suatu perintah bila suatu kondisi tercapai.
@@ -27,16 +29,22 @@ print](https://user-images.githubusercontent.com/44745895/52643357-6c547500-2f0f
 6.masukan perintah “else”  jika semua kondisi tidak tercapai 
 	Else adalah suatu perintah bila tidak ada suatu kondisi yang terpenuhi
 
-	seperti pada gambar 3.
+	seperti pada gambar 3.![sc 
+if](https://user-images.githubusercontent.com/44745895/52643702-29df6800-2f10-11e9-8140-bed3eb13f451.png)
 
 7.untuk menjalankan klik "run"
 
-	seperti gambar 4.
+	seperti gambar 4.![sc 
+run](https://user-images.githubusercontent.com/44745895/52643784-49769080-2f10-11e9-93fb-76e902b215ac.png)
+
 
 
 8.masukan nilai bilangan pertama,kedua dan ketiga
 	seperti pada gambar 5.
+![sc 
+hasil](https://user-images.githubusercontent.com/44745895/52643874-7165f400-2f10-11e9-886e-df61054a8086.png)
+
 
 
 9.selesai dan akan muncul hasilnya
-	seperti gambar 6.
+
