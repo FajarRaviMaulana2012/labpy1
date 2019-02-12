@@ -32,7 +32,7 @@ int](https://user-images.githubusercontent.com/44745895/52643605-f8669c80-2f0f-1
 
 	seperti pada gambar 3.
 
-			![sc if](https://user-images.githubusercontent.com/44745895/52658917-cf093900-2f2e-11e9-92a7-529fc1992934.png)
+			![sc if](https://user-images.githubusercontent.com/44745895/52659038-0d065d00-2f2f-11e9-8c8e-282ba6b4eee6.png)
 
 
 7.untuk menjalankan klik "run"
